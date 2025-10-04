@@ -1,0 +1,8 @@
+a) Original dice rolls:
+5 2 2 5 4 4 3 4 3 6 1 2 6 2 2 3 6 3 5 2
+
+b) Sorted dice rolls:
+1 2 2 2 2 2 2 3 3 3 3 4 4 4 5 5 5 6 6 6
+
+c) Number of fours:
+3
